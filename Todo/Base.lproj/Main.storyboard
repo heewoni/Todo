@@ -50,6 +50,9 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <viewLayoutGuide key="safeArea" id="TBD-2R-gZa"/>
                     </view>
+                    <connections>
+                        <outlet property="calendarView" destination="i4R-2S-dgO" id="XUf-N3-zkZ"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
